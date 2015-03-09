@@ -1,0 +1,13 @@
+@import "definitions";
+
+.font-display-4 { @include font-display-4; }
+.font-display-3 { @include font-display-3; }
+.font-display-2 { @include font-display-2; }
+.font-display-1 { @include font-display-1; }
+.font-headline { @include font-headline; }
+.font-title { @include font-title; }
+.font-subhead { @include font-subhead; }
+.font-body-2 { @include font-body-2; }
+.font-body-1 { @include font-body-1; }
+.font-caption { @include font-caption; }
+.font-button { @include font-button; }
